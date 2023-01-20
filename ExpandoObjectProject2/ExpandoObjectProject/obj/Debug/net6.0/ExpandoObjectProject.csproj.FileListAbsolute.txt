@@ -1,0 +1,30 @@
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.deps.json
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.runtimeconfig.json
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.dll
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.pdb
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.csproj.AssemblyReference.cache
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.AssemblyInfoInputs.cache
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.AssemblyInfo.cs
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.csproj.CoreCompileInputs.cache
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.dll
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/refint/ExpandoObjectProject.dll
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.pdb
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.genruntimeconfig.cache
+/Users/feranmi/Projects/ExpandoObjectProject/ExpandoObjectProject/obj/Debug/net6.0/ref/ExpandoObjectProject.dll
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.deps.json
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.runtimeconfig.json
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.dll
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/bin/Debug/net6.0/ExpandoObjectProject.pdb
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.csproj.AssemblyReference.cache
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.AssemblyInfoInputs.cache
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.AssemblyInfo.cs
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.dll
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/refint/ExpandoObjectProject.dll
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.pdb
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ExpandoObjectProject.genruntimeconfig.cache
+/Users/user/Downloads/ExpandoObjectProject 2/ExpandoObjectProject/obj/Debug/net6.0/ref/ExpandoObjectProject.dll
